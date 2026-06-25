@@ -1,4 +1,4 @@
-# Cypress-Test-S
+# Cypress-Test-SauceDemo
 
 This project contains automated end-to-end tests developed with Cypress for the SauceDemo web application.
 
